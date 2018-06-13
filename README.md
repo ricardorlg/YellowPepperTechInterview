@@ -11,5 +11,5 @@ to define the device name.
 
 # Reports
 
-The reports of the project are hosted in github usin Github pages, can be found in https://ricardorlg.github.io/YellowPepperTechInterview/docs/site/serenity/
+The reports of the project are hosted in github usin Github pages, can be found in https://ricardorlg.github.io/YellowPepperTechInterview
 
