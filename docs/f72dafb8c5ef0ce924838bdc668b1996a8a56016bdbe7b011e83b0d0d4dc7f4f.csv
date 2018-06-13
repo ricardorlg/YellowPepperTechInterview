@@ -1,7 +1,0 @@
-"Story","Title","Result","Date","Stability","Duration (s)"
-"Register user information story","It should not register user without password","SUCCESS","2018-06-13T05:28:03.85-05:00[America/Bogota]","0.0","69.52"
-"Register user information story","It should register user with all fields","SUCCESS","2018-06-13T05:29:15.948-05:00[America/Bogota]","0.0","73.32"
-"Register user information story","It should not register user with used username","SUCCESS","2018-06-13T05:30:31.189-05:00[America/Bogota]","0.0","69.81"
-"Register user information story","It should not register user without information","SUCCESS","2018-06-13T05:31:43.105-05:00[America/Bogota]","0.0","69.2"
-"Register user information story","It should register user without name","SUCCESS","2018-06-13T05:32:54.228-05:00[America/Bogota]","0.0","68.5"
-"Register user information story","It should not register user without username","SUCCESS","2018-06-13T05:34:04.594-05:00[America/Bogota]","0.0","68.22"

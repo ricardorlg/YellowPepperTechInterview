@@ -1,7 +1,0 @@
-"Story","Title","Result","Date","Stability","Duration (s)"
-"Login story","It should show error message when login without username","SUCCESS","2018-06-13T05:17:37.123-05:00[America/Bogota]","0.0","68.26"
-"Login story","It should show error message when login without password","SUCCESS","2018-06-13T05:18:48.061-05:00[America/Bogota]","0.0","66.11"
-"Login story","It should login with valid credentials","SUCCESS","2018-06-13T05:19:56.348-05:00[America/Bogota]","0.0","66.56"
-"Login story","It should show error message when login with invalid credentials","SUCCESS","2018-06-13T05:21:05.12-05:00[America/Bogota]","0.0","66.06"
-"Login story","It should show error message when login without credentials","SUCCESS","2018-06-13T05:22:12.875-05:00[America/Bogota]","0.0","68.15"
-"Login story","It should show error message when login with invalid password","SUCCESS","2018-06-13T05:23:22.963-05:00[America/Bogota]","0.0","66.71"
